@@ -5,6 +5,7 @@ Module that defines a Square class.
 This module provides the Square class used in the early OOP exercises.
 """
 
+
 class Square(object):
     """Represent a square with a private size attribute.
 
